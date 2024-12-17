@@ -75,7 +75,7 @@ p {
 }
 
 .gallery img {
-  height: 550px;
+  width: 100%;
   margin: 1vmin;
   border: 1vmin solid white;
 }
